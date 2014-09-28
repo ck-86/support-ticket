@@ -2,13 +2,14 @@
   "name": "mail",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mail-listener2": "^0.1.7"
+    "mail-listener2": "^0.1.7",
+    "request": "^2.44.0"
   }
 }
